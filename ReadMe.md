@@ -1,7 +1,8 @@
 # Topic: Barnes-Hut algorithm simulation
-# Class: Comp 464 High performance computing
-# Team: Sung Yu Yeh and Cordova Ricardo
-
+---
+### Class: Comp 464 High performance computing
+### Team: Sung Yu Yeh and Cordova Ricardo
+---
 
 This project simulates the N-body problem using the Barnes-Hut algorithm for particle interaction. It supports parallel computation using OpenMP.
 
